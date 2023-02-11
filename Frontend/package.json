@@ -9,11 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "@material-ui/core": "^4.12.4",
-    "@material-ui/icons": "^4.11.3",
-=======
->>>>>>> 28c72e5638fcaecfc3c31ea8a75435c53a425ea2
     "axios": "^1.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
